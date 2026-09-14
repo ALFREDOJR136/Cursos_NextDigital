@@ -38,5 +38,3 @@ Los principales temas tratados fueron:
 Aprendizaje
 Estos cursos me permitieron ampliar conocimientos en dos áreas muy relevantes dentro del desarrollo actual: la ingeniería de datos y la aplicación práctica de inteligencia artificial generativa.
 Por un lado, trabajé la organización y automatización de procesos de datos mediante Apache Airflow, entendiendo cómo se estructuran pipelines, tareas y flujos batch. Por otro lado, profundicé en conceptos relacionados con asistentes inteligentes, sistemas RAG y agentes capaces de razonar, utilizar herramientas y mantener contexto durante una interacción.
-Autor
-Alfredo Martínez Escoval
