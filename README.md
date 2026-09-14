@@ -13,7 +13,7 @@ Cursos_NextDigital/
 ├── Taller_agentes/
 │   └── Taller Agentes B CEU.pptx
 └── README.md
-
+```
 Fundamentos de Ingeniería de Datos y Orquestación Batch con Airflow
 Curso orientado a comprender los fundamentos de la ingeniería de datos y el uso de Apache Airflow para la orquestación de tareas y procesos batch.
 Durante las sesiones se trabajaron conceptos como:
